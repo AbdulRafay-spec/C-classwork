@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.preserveFocus": false,
+    "code-runner.executorMap": {
+        "c": "cd $dir; gcc $fileName -o $fileNameWithoutExt; if ($?) { .\\$fileNameWithoutExt }"
+    },
+    "C_Cpp.debugShortcut": false
+}
